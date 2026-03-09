@@ -68,7 +68,7 @@ The final report includes:
 
 ```bash
 # Clone the repo
-git clone https://github.com/YOUR_USERNAME/competitive-intelligence-agent.git
+git clone https://github.com/AdokshSuryawanshi/competitive-intelligence-agent.git
 cd competitive-intelligence-agent
 
 # Install dependencies
